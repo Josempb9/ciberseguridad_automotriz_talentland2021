@@ -8,7 +8,7 @@ En este workshop se trataron los siguientes temas:
 - Implementación de un cifrado XOR 
 - Implementación de un rolling hash
 - Ejemplo a paso a paso de la autenticación de un mensaje de CAN
-- Referencias a implementaciones de AES y SHA-256 (OpenSSL)
+- Ejemplo del uso de HMAC con OpenSSL
 
 
 Si deseas ver la presentación de nuevo, el video está disponible en la siguiente liga:
