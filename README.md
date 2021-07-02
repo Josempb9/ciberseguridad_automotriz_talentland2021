@@ -6,7 +6,7 @@ En este workshop se trataron los siguientes temas:
 - Breve introducción a ciberseguridad
 - Contexto de ciberseguridad en el área automotriz
 - Implementación de un cifrado XOR 
-- Implementación de un rolling hash
+- Implementación de un hash de 32 y 64 bits
 - Ejemplo a paso a paso de la autenticación de un mensaje de CAN
 - Ejemplo del uso de HMAC con OpenSSL
 
