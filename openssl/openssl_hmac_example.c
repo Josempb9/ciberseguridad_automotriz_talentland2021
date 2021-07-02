@@ -1,5 +1,5 @@
 //Para compilar este programa, se puede utilizar el siguiente comando
-// gcc -std=c99 .\main.c -o main.exe -lcrypto
+// gcc -std=c99 openssl_hmac_example.c -o openssl_hmac_example -lcrypto
 
 
 // NOTA:
