@@ -11,6 +11,7 @@ En este workshop se trataron los siguientes temas:
 - Ejemplo del uso de HMAC con OpenSSL
 
 
-Si deseas ver la presentación de nuevo, el video está disponible en la siguiente liga:
+Cuando los organizadores decidan liberar la grabación al público, podrás ver el taller de nuevo en la siguiente liga:
+[Ciberseguridad Automotriz - Talent Land 2021](https://www.youtube.com/watch?v=gnSeJOtHvso)
 
-[Ciberseguridad Automotriz - Talent Land 2021](https://youtube.com)
+[Presentación PowerPoint](Ciberseguridad_Automotriz.pptx)
