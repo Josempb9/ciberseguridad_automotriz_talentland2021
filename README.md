@@ -14,4 +14,9 @@ En este workshop se trataron los siguientes temas:
 Cuando los organizadores decidan liberar la grabación al público, podrás ver el taller de nuevo en la siguiente liga:
 [Ciberseguridad Automotriz - Talent Land 2021](https://www.youtube.com/watch?v=gnSeJOtHvso)
 
+Por el momento, puedes referir las diapositivas de la presentación en la siguiente liga:
 [Presentación PowerPoint](presentacion/Ciberseguridad_Automotriz.pptx)
+
+# Dudas / Sugerencias
+Si tienes alguna propuesta o si algo no te quedó claro, puedes levantar un "Issue" dentro este repositorio.
+Trataré de darle seguimiento y dar retroalimentación de mi parte.
